@@ -7,4 +7,6 @@ Coursera Weekly assignments for :
 4. Sequences, Time Series and Prediction
 
 You can verify certificate at : https://coursera.org/verify/professional-cert/X5CCJKQ43XVB
-It was one of the most excruciating but insightful course.
+
+It was one of the most excruciating but insightful course. Worth it.
+Thanks and Enjoy coding, Jayesh
